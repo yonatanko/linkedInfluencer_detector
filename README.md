@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[TBD](TBD)
+https://github.com/maayan-aytek/linkedInfluencer_detector/assets/81240572/d10af42b-84b0-4f31-9366-81190425ee83
 
 <h2>🛠️ Installation Steps:</h2>
 
